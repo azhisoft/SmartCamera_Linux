@@ -1,4 +1,4 @@
-# SmartCamera_Linux
+# SmartCamera_linux
 适用于 Linux 平台的智能摄像头 SDK，支持 SmartLink 智能配网、局域网发现，和摄像头的网络配置、音视频参数设置，以及 RTMP 推流设置等。
 
 SmartCamera 旨在提供简单易用的 SDK，兼容包括互联网摄像头、监控摄像头等各种摄像头设备，实现对摄像头管理和配置的智能化和移动化。
@@ -59,4 +59,4 @@ virtual void cameraDiscovered(CameraSource* source)
 
 ## 反馈及意见
 当你遇到任何问题时，可以通过在 GitHub 的 repo 提交 issues 来反馈问题，请尽可能的描述清楚遇到的问题，如果有错误信息也一同附带，并且在 Labels 中指明类型为 bug 或者其他。
-[通过这里查看已有的 issues 和提交 Bug](https://github.com/azhisoft/SmartCamera_Linux/issues)
+[通过这里查看已有的 issues 和提交 Bug](https://github.com/azhisoft/SmartCamera_linux/issues)
